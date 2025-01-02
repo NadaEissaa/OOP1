@@ -62,7 +62,7 @@ namespace OOP1
         //}
         #endregion
 
-        //Apply Encapsulation user properties
+        /////Apply Encapsulation user properties
         //1. Full Property
 
         // to access id
